@@ -20,7 +20,7 @@
 
 **Scripting Language:**
 
-![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/shell-black.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
@@ -45,7 +45,10 @@
 
 ![Zabbix](https://img.shields.io/badge/zabbix-FF0000.svg?style=for-the-badge)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elastic)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana)
+![Graylog](https://img.shields.io/badge/graylog-gray?style=for-the-badge&logo=graylog)
+![Grafana](https://img.shields.io/badge/grafana-gray?style=for-the-badge&logo=grafana)
 
 **Documentation and Project Management**
 
